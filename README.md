@@ -100,13 +100,7 @@ After a Game Over, press any arrow key to start a new game.
 
 ## 📸 Screenshots
 
-Add screenshots of your game here.
-
-Example:
-
-```
-screenshots/gameplay.png
-```
+![alt text](image-1.png)
 
 ---
 
@@ -149,7 +143,3 @@ Developed as a personal project to practice:
 - Game Development using Raylib
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
